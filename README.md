@@ -6,16 +6,6 @@ Below is test data used for this script.
 
 
     
-In this case I was checking to see what would happen if 0 was inputed for the rental days. Obviously this is unrealistic because the odometer moved up 20 even though it wasnt rented.
-
-
-  Odometer at start: 200
-	Odometer at end: 200
-	Rental days: 0
-  Customer name: Doug
-  Luxury car? (y/n): y
-    
-In this case I was checking to make sure the value outputed would be 0.
 
 	Odometer at start: 160
 	Odometer at end: 180
