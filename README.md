@@ -4,20 +4,7 @@ Class project used to calculate different prices of a car depending on the month
 Below is test data used for this script.
 
 
-Tests:
 
-  Odometer at start: 220
-	Odometer at end: 200
- 
-In this case I was checking to make sure that my if statement was working properly and checking if the odoStart value was less than the odoEnd value.
-
-
-  Odometer at start: 200
-	Odometer at end: 220
-	Rental days: 0
-  Customer name: Doug
-  Luxury car? (y/n): y
-  Starting month (1=Jan, 2=Feb, etc.): 2
     
 In this case I was checking to see what would happen if 0 was inputed for the rental days. Obviously this is unrealistic because the odometer moved up 20 even though it wasnt rented.
 
